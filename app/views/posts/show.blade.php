@@ -1,0 +1,1 @@
+C:\laravel\laravel-blog\app/views/posts/show.blade.php
